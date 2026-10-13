@@ -6,7 +6,7 @@ category: "Start Here"
 categorySlug: "start-here"
 order: 20
 locale: "en"
-updatedAt: "2026-05-26"
+updatedAt: "2026-10-13"
 seo:
   title: "Install OmniForge"
   description: "Download, install, and open OmniForge Desktop on your computer."
@@ -24,11 +24,17 @@ Install OmniForge from the official download page. The desktop app includes the 
 
 On first launch, OmniForge may need a moment to prepare local services. Keep the app open until the setup messages disappear.
 
-## Sign in or continue locally
+## Sign in and prepare the local models
 
-You can start with the free plan. Signing in can unlock account-based limits and billing features, but the core local workspace remains on your machine.
+Every plan, including Free, requires an OmniForge account. Complete the browser sign-in flow and return to the desktop app.
 
-If you do not want to sign in immediately, start with one workspace and a small set of files. You can sign in later from the account menu.
+Let the local models and services finish downloading before relying on transcription or the Assistant. Model downloads and sign-in require internet. Make a short test recording, review its transcript and generate a summary before an offline session.
+
+Documents, recordings and AI processing stay on your computer. Account services, billing, downloads and updates still use online services. Check your account state before taking the computer offline.
+
+## Supported computers
+
+OmniForge Desktop supports Apple Silicon Macs and Windows PCs. Check the [download page](https://omniforge.online/download) for current operating-system requirements. Performance depends on your hardware and workload.
 
 ## Keep the app updated
 
