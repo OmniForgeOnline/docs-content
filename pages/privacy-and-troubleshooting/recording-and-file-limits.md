@@ -6,7 +6,7 @@ category: "Privacy and Troubleshooting"
 categorySlug: "privacy-and-troubleshooting"
 order: 530
 locale: "en"
-updatedAt: "2026-05-26"
+updatedAt: "2026-10-13"
 seo:
   title: "OmniForge recording and file limits"
   description: "Understand file, workspace, and recording limits across OmniForge plans."
@@ -16,21 +16,19 @@ Plan limits affect how many files, workspaces, and recording minutes you can use
 
 ## Free plan limits
 
-The Free plan is meant for evaluation. It includes limits such as:
+Free requires an account and includes:
 
-- Indexed files.
-- Workspaces.
-- Recording duration.
+- 50 indexed files.
+- One workspace.
+- 40 minutes per recording.
 
 The app shows upgrade prompts when you reach a plan boundary.
 
-![OmniForge plan selection view showing Free, Starter, and one-time plan options.](/images/screenshots/pricing-plans.webp)
-
 ## Paid plan access
 
-Starter and one-time plans are designed for heavier use. They remove file, workspace, and recording time limits.
+Unlimited removes the file, workspace and recording-time quotas and adds custom summary templates. Business includes Unlimited features with team administration and SSO. Business Plus is scoped after a workflow assessment.
 
-Open **Plans & pricing** in the app for the current details.
+See [current plans](https://omniforge.online/pricing) for prices and billing periods. Check your account and plan state before an offline session; local processing does not make account services available without internet.
 
 ## If a limit looks wrong
 

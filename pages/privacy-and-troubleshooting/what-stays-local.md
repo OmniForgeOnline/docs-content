@@ -6,7 +6,7 @@ category: "Privacy and Troubleshooting"
 categorySlug: "privacy-and-troubleshooting"
 order: 520
 locale: "en"
-updatedAt: "2026-05-26"
+updatedAt: "2026-10-13"
 seo:
   title: "What stays local in OmniForge"
   description: "Understand local-first document and recording processing in OmniForge."
@@ -23,11 +23,15 @@ Your workspace can include:
 - Transcripts.
 - Assistant conversation history.
 
-This content is intended to remain part of your local OmniForge environment.
+Documents, recordings, transcripts, prompts and Assistant answers are processed on your computer. Local AI processing does not upload that content to an outside AI service.
 
 ## Online services
 
-Some actions still require the internet, such as sign-in, billing, downloads and updates.
+Every plan requires an account. Sign-in, billing, model downloads and app updates use online services. Complete setup and check your account state before an offline session.
+
+## Optional diagnostics
+
+If you opt in, anonymous diagnostics and usage telemetry send limited, allowlisted metadata. They exclude prompts, answers, transcripts, documents, file names, paths, account details and raw error logs. Local content processing does not mean that the app never makes a network request.
 
 ## Practical privacy habit
 
